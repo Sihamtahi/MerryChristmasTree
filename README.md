@@ -2,6 +2,8 @@
 Merry Christmas Tree drawed in python using turtle package
 
 
-![asciicast](https://www.awesomescreenshot.com/video/6598496?key=171ed1c673414165a6f78bc9f727559b)
+ 
+ 
 
-<video src='https://www.awesomescreenshot.com/video/6598496?key=171ed1c673414165a6f78bc9f727559b' width=180/>
+https://user-images.githubusercontent.com/38142214/147412851-7b699759-94a6-4b30-bd37-06ef2bd6d487.mp4
+
